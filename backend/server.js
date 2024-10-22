@@ -27,7 +27,7 @@ const TrackedVessel = require('./models/TrackedVessel');
 const  PolygonGeofence = require('./models/PolygonGeofence');
 const  Geofence        = require('./models/Geofence');
 // const NavStatInterval = require('./models/NavStatInterval');
-const AisSatPull = require('./models/AisSatpull');
+const AisSatPull = require('./models/AisSatPull');
 const TerrestrialGeofence = require('./models/TerrestrialGeofence');
 const geolib = require('geolib'); 
 
